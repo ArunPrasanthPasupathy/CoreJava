@@ -1,0 +1,4 @@
+Upcasting - Creating a new parent class reference and initializing it to child class reference
+Downcasting - 1. Creating a parent class reference and initializing to new child class Object 
+			2. Creating a Child class reference and initializing it to above created parent class reference with (cast)	
+			
